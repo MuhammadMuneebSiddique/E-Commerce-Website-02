@@ -45,7 +45,7 @@ export default function Header2(){
                 </div>
                 {/* mobile header */}
                 <div className="mobile-header-2 hidden">
-                    <div className="flex justify-between items-center">
+                    <div className="flex justify-between w-full items-center">
                         <h2 className="text-[3em] capitalize tracking-wide font-bold ">Bandage</h2>
                         <div className="items-center gap-[1em]">
                             <Image className="w-[3em] h-[3em] object-cover cursor-pointer" id="menu" src={menu_I}/>
