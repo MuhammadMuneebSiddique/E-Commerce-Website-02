@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import Check_I from "./images/form-check-input.png"
-import arrow_I from "./images/Vector (10).png"
 import tick_I from "./images/icn-circle circle-xs secondary-color-1.png"
 import Footer from "../footer/page"
 import Header2 from "../header2/page" 
